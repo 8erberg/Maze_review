@@ -1,0 +1,1 @@
+Results from fsSpike_GC1C2_50ms_StimOn_Go_I.py import scripts are saved to this folder.
